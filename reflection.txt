@@ -5,7 +5,9 @@ It returned unauthorized access and I am requiring to login to OAUTH app login t
 ii. What data is returned after successful login?
 The profile of my github in a html.
 iii. Why is OAuth considered more secure than traditional login?
-
+OAuth is more secure than traditional login because it does not share your password with third-party apps. 
+Instead, it uses temporary access tokens with limited permissions, so your actual credentials are never exposed. 
+This reduces the risk of password leaks and account compromise.
 iv. What challenges did you encounter?
 rendering the format
 v. What did you learn from this activity?
