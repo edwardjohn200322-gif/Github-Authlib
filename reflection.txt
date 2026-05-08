@@ -1,0 +1,12 @@
+a. Result Analysis
+i. What happens when a user accesses /profile without logging in?
+It returned unauthorized access and I am requiring to login to OAUTH app login to the github
+
+ii. What data is returned after successful login?
+The profile of my github in a html.
+iii. Why is OAuth considered more secure than traditional login?
+
+iv. What challenges did you encounter?
+rendering the format
+v. What did you learn from this activity?
+making authization app in the github profile making an application that can access the profile through an web app.
